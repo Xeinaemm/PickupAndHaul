@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<PUAH.allowAnimals>Allow tamed pack animals using their inventory for hauling</PUAH.allowAnimals>
+	<PUAH.allowAnimalsTooltip>Default On. Works best with mods that give backpacks to more animals,
+		like VFME Caravan Packs</PUAH.allowAnimalsTooltip>
+	<PUAH.allowMechanoids>Allow hacked mechanoids using their inventory for hauling</PUAH.allowMechanoids>
+	<PUAH.allowMechanoidsTooltip>Requires What The Hack or similar mods. Default On.</PUAH.allowMechanoidsTooltip>
+	<PUAH.enableDebugLogging>Enable debug logging</PUAH.enableDebugLogging>
+	<PUAH.enableDebugLoggingTooltip>Default Off. When enabled, the mod will output detailed debug
+		information to the game log. Useful for troubleshooting issues.</PUAH.enableDebugLoggingTooltip>
+</LanguageData>

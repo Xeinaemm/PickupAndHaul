@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Allow tamed pack animals using their inventory for hauling -->
+  <PUAH.allowAnimals>Gezähmte Lasttiere dürfen ihr Inventar für den Transport verwenden</PUAH.allowAnimals>
+  <!-- EN: Default On. Works best with mods that give backpacks to more animals, like VFME Caravan
+  Packs -->
+  <PUAH.allowAnimalsTooltip>Standardmäßig aktiviert. Funktioniert am besten mit Mods, die Rucksäcke
+    für mehr Tiere bereitstellen, wie z.B. VFME Caravan Packs.</PUAH.allowAnimalsTooltip>
+  <!-- EN: Allow hacked mechanoids using their inventory for hauling -->
+  <PUAH.allowMechanoids>Gehackte Mechanoiden dürfen ihr Inventar für den Transport verwenden</PUAH.allowMechanoids>
+  <!-- EN: Requires What The Hack or similar mods. Default On. -->
+  <PUAH.allowMechanoidsTooltip>Benötigt What The Hack oder ähnliche Mods. Standardmäßig aktiviert.</PUAH.allowMechanoidsTooltip>
+  <!-- EN: Enable debug logging -->
+  <PUAH.enableDebugLogging>Debug-Protokollierung aktivieren</PUAH.enableDebugLogging>
+  <!-- EN: Default Off. When enabled, the mod will output detailed debug information to the game
+  log. Useful for troubleshooting issues. -->
+  <PUAH.enableDebugLoggingTooltip>Standardmäßig deaktiviert. Wenn aktiviert, gibt das Mod
+    detaillierte Debug-Informationen in das Spielprotokoll aus. Nützlich für die Fehlerbehebung.</PUAH.enableDebugLoggingTooltip>
+</LanguageData>
